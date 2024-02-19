@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\C#\PessoaPOO\bin\Debug\net8.0\PessoaPOO.exe
+C:\Users\Marcos\Desktop\C#\PessoaPOO\bin\Debug\net8.0\PessoaPOO.deps.json
+C:\Users\Marcos\Desktop\C#\PessoaPOO\bin\Debug\net8.0\PessoaPOO.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\PessoaPOO\bin\Debug\net8.0\PessoaPOO.dll
+C:\Users\Marcos\Desktop\C#\PessoaPOO\bin\Debug\net8.0\PessoaPOO.pdb
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.dll
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\refint\PessoaPOO.dll
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.pdb
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\PessoaPOO.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\PessoaPOO\obj\Debug\net8.0\ref\PessoaPOO.dll
