@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Unidimencional_Vetor", "Array_Unidimencional_Vetor\Array_Unidimencional_Vetor.csproj", "{8EE85353-FFF4-4E38-9718-87145198B37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE85353-FFF4-4E38-9718-87145198B37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE85353-FFF4-4E38-9718-87145198B37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE85353-FFF4-4E38-9718-87145198B37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE85353-FFF4-4E38-9718-87145198B37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0BA9F57-F593-4E73-91DF-D6414A9A30B9}
+	EndGlobalSection
+EndGlobal

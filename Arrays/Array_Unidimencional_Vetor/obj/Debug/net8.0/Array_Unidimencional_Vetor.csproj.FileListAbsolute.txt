@@ -1,0 +1,14 @@
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\bin\Debug\net8.0\Array_Unidimencional_Vetor.exe
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\bin\Debug\net8.0\Array_Unidimencional_Vetor.deps.json
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\bin\Debug\net8.0\Array_Unidimencional_Vetor.runtimeconfig.json
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\bin\Debug\net8.0\Array_Unidimencional_Vetor.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\bin\Debug\net8.0\Array_Unidimencional_Vetor.pdb
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\refint\Array_Unidimencional_Vetor.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.pdb
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\Array_Unidimencional_Vetor.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\Arrays\Array_Unidimencional_Vetor\obj\Debug\net8.0\ref\Array_Unidimencional_Vetor.dll
