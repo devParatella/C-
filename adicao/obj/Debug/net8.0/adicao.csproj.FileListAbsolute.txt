@@ -1,0 +1,14 @@
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\bin\Debug\net8.0\adicao.exe
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\bin\Debug\net8.0\adicao.deps.json
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\bin\Debug\net8.0\adicao.runtimeconfig.json
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\bin\Debug\net8.0\adicao.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\bin\Debug\net8.0\adicao.pdb
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\refint\adicao.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.pdb
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\adicao.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\adicao\obj\Debug\net8.0\ref\adicao.dll
