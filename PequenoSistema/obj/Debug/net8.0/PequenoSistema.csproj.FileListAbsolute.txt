@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\C#\PequenoSistema\bin\Debug\net8.0\PequenoSistema.exe
+C:\Users\Marcos\Desktop\C#\PequenoSistema\bin\Debug\net8.0\PequenoSistema.deps.json
+C:\Users\Marcos\Desktop\C#\PequenoSistema\bin\Debug\net8.0\PequenoSistema.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\PequenoSistema\bin\Debug\net8.0\PequenoSistema.dll
+C:\Users\Marcos\Desktop\C#\PequenoSistema\bin\Debug\net8.0\PequenoSistema.pdb
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.dll
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\refint\PequenoSistema.dll
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.pdb
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\PequenoSistema.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\PequenoSistema\obj\Debug\net8.0\ref\PequenoSistema.dll
