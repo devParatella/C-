@@ -1,0 +1,14 @@
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\bin\Debug\net8.0\OperacoesMatematicasBasicas.exe
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\bin\Debug\net8.0\OperacoesMatematicasBasicas.deps.json
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\bin\Debug\net8.0\OperacoesMatematicasBasicas.runtimeconfig.json
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\bin\Debug\net8.0\OperacoesMatematicasBasicas.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\bin\Debug\net8.0\OperacoesMatematicasBasicas.pdb
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\refint\OperacoesMatematicasBasicas.dll
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.pdb
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\OperacoesMatematicasBasicas.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Programacao\C#\Exericios\OperacoesMatematicasBasicas\obj\Debug\net8.0\ref\OperacoesMatematicasBasicas.dll
