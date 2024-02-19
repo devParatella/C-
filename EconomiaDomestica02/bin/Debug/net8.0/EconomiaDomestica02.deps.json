@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EconomiaDomestica02/1.0.0": {
+        "runtime": {
+          "EconomiaDomestica02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EconomiaDomestica02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

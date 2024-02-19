@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\bin\Debug\net8.0\EconomiaDomestica02.exe
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\bin\Debug\net8.0\EconomiaDomestica02.deps.json
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\bin\Debug\net8.0\EconomiaDomestica02.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\bin\Debug\net8.0\EconomiaDomestica02.dll
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\bin\Debug\net8.0\EconomiaDomestica02.pdb
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.dll
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\refint\EconomiaDomestica02.dll
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.pdb
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\EconomiaDomestica02.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\EconomiaDomestica02\obj\Debug\net8.0\ref\EconomiaDomestica02.dll
