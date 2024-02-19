@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\bin\Debug\net8.0\Calculadora_110224.exe
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\bin\Debug\net8.0\Calculadora_110224.deps.json
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\bin\Debug\net8.0\Calculadora_110224.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\bin\Debug\net8.0\Calculadora_110224.dll
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\bin\Debug\net8.0\Calculadora_110224.pdb
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.dll
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\refint\Calculadora_110224.dll
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.pdb
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\Calculadora_110224.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\Calculadora_110224\obj\Debug\net8.0\ref\Calculadora_110224.dll
