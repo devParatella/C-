@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\bin\Debug\net8.0\Conversor_Moeda_120224.exe
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\bin\Debug\net8.0\Conversor_Moeda_120224.deps.json
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\bin\Debug\net8.0\Conversor_Moeda_120224.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\bin\Debug\net8.0\Conversor_Moeda_120224.dll
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\bin\Debug\net8.0\Conversor_Moeda_120224.pdb
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.dll
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\refint\Conversor_Moeda_120224.dll
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.pdb
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\Conversor_Moeda_120224.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\Conversor_Moeda_120224\obj\Debug\net8.0\ref\Conversor_Moeda_120224.dll
