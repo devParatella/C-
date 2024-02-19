@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\bin\Debug\net8.0\Aula_050224.exe
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\bin\Debug\net8.0\Aula_050224.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\bin\Debug\net8.0\Aula_050224.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\bin\Debug\net8.0\Aula_050224.dll
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\bin\Debug\net8.0\Aula_050224.pdb
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.dll
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\refint\Aula_050224.dll
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.pdb
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\Aula_050224.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Estruturas_de_Repeticao\Aula_050224\obj\Debug\net8.0\ref\Aula_050224.dll
