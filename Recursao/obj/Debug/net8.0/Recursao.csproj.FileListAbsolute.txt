@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Recursao\bin\Debug\net8.0\Recursao.exe
+C:\Users\Marcos\Lógica_de_programador II\Recursao\bin\Debug\net8.0\Recursao.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Recursao\bin\Debug\net8.0\Recursao.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Recursao\bin\Debug\net8.0\Recursao.dll
+C:\Users\Marcos\Lógica_de_programador II\Recursao\bin\Debug\net8.0\Recursao.pdb
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.dll
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\refint\Recursao.dll
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.pdb
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\Recursao.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Recursao\obj\Debug\net8.0\ref\Recursao.dll
